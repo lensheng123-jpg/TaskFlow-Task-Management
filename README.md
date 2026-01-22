@@ -6,9 +6,9 @@ TaskFlow is a web-based task management application developed using Agile Scrum 
 ## 👥 Team Members & Roles
 | Name | Role | Responsibilities | GitHub Username |
 |------|------|------------------|-----------------|
-| [Member 1 Name] | Product Owner | Product vision, user stories, documentation | @username1 |
-| [Member 2 Name] | Scrum Master | Sprint planning, Scrum tracking, GitHub board | @username2 |
-| [Member 3 Name] | Developer | System development, testing, implementation | @username3 |
+| [Chai Shan] | Product Owner | Product vision, user stories, documentation | @Magic-Maggie |
+| [Na Kuan Ren] | Scrum Master | Sprint planning, Scrum tracking, GitHub board | @kokeng123eng |
+| [Na Kuan Li] | Developer | System development, testing, implementation | @username3 |
 
 ## 🎯 Product Vision & Scope
 [Copy from your earlier draft]
