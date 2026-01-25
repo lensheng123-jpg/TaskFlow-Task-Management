@@ -31,7 +31,7 @@ Our development followed Scrum methodology with 2 sprints:
 - **Completed**: PB3, PB4, PB5, PB6, testing, documentation
 
 ### GitHub Collaboration Evidence
-- **Commit History**: ![Commit Graph]((https://img.sanishtech.com/u/40f5ec77aae7252ef0442c7cf4773211.png))
+- **Commit History**: ![Commit Graph] (https://img.sanishtech.com/u/40f5ec77aae7252ef0442c7cf4773211.png)
 - **Pull Requests**: ![PRs](scrum-artifacts/screenshots/pull-requests.png)
 - **Project Board**: ![Project Board] (https://img.sanishtech.com/u/d5c9fbdf17d5bd05205dad626346b38a.png)(https://img.sanishtech.com/u/225b8c0bbaaf5856c5924885315f5440.png)
 
