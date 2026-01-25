@@ -16,7 +16,7 @@ Week 2 (5 days)
 | Implement deadline handling (PB6) | Member 3 | Done | 2 | 2.5 |
 | Comprehensive testing | All | Done | 2 | 3 |
 | Prepare final documentation | Member 1 | Done | 2 | 2 |
-| Create presentation slides | Member 2 | Done | 1.5 | 2 |
+
 
 ## Definition of Done
 - ✓ All PB items completed
@@ -26,6 +26,5 @@ Week 2 (5 days)
 - ✓ Presentation ready
 
 ## Task Board Screenshot
-![Sprint 2 Task Board](../scrum-artifacts/screenshots/sprint2-board.png)
-
+![Sprint 2 Task Board]https://img.sanishtech.com/u/d75193331663bb821a7f128172d9536d.png
 *Note: Replace with actual screenshot of your GitHub Project Board during Sprint 2*
