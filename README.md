@@ -33,7 +33,7 @@ Our development followed Scrum methodology with 2 sprints:
 ### GitHub Collaboration Evidence
 - **Commit History**: ![Commit Graph](scrum-artifacts/screenshots/commit-graph.png)
 - **Pull Requests**: ![PRs](scrum-artifacts/screenshots/pull-requests.png)
-- **Project Board**: ![Project Board](scrum-artifacts/screenshots/project-board-full.png)
+- **Project Board**: ![Project Board] (https://img.sanishtech.com/u/d5c9fbdf17d5bd05205dad626346b38a.png)(https://img.sanishtech.com/u/225b8c0bbaaf5856c5924885315f5440.png)
 
 ## ⚙️ Technologies Used
 - HTML5, CSS3, JavaScript (ES6+)
