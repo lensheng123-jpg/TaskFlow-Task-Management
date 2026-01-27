@@ -23,7 +23,6 @@ Week 2 (5 days)
 - ✓ System fully functional
 - ✓ No known bugs
 - ✓ README.md complete
-- ✓ Presentation ready
 
 ## Task Board Screenshot
 ![Sprint 2 Task Board]
