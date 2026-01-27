@@ -124,7 +124,7 @@ function renderTasks() {
 
 function updateStats() {
     totalTasks.textContent = tasks.length;
-    todoTasks.textContent = tasks.filter(t => t.status === 'todo').length;
+    todoTasks.textContent = tasks.filter(t => t.status === 'to do').length;
     progressTasks.textContent = tasks.filter(t => t.status === 'progress').length;
     doneTasks.textContent = tasks.filter(t => t.status === 'done').length;
 }
