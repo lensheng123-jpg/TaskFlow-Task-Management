@@ -36,6 +36,7 @@ Our development followed Scrum methodology with 2 sprints:
 - **Project Board**: ![Project Board] https://img.sanishtech.com/u/96b8401488b322651e24c431a0a277af.png
 
 - ![Sprint 1 Task Board] Week 1 (Sprint Planning Day) https://img.sanishtech.com/u/c66fab254eeb747e4039e21a150f7f5c.png Week 1 (Mid-Sprint) https://img.sanishtech.com/u/eaadbcaf31bd580213b8720228ffb098.png Week 1 (Sprint End) https://img.sanishtech.com/u/354f96544c5ca3cb215667fffb95f7c4.png
+- ![Sprint 2 Task Board] Week 2 (Sprint Planning Day) https://img.sanishtech.com/u/cf560712fa2d0c7b32500150ac190992.png Week 2 (Mid-Sprint) https://img.sanishtech.com/u/a23fc2fe516904a75cadf296e6ca08c4.png Week 2 (Sprint End) https://img.sanishtech.com/u/1aef4c7dab712bcce29b03496006681c.png
 
 ## ⚙️ Technologies Used
 - HTML5, CSS3, JavaScript (ES6+)
