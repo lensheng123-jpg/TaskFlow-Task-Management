@@ -26,5 +26,14 @@ Week 2 (5 days)
 - ✓ Presentation ready
 
 ## Task Board Screenshot
-![Sprint 2 Task Board]https://img.sanishtech.com/u/d75193331663bb821a7f128172d9536d.png
-*Note: Replace with actual screenshot of your GitHub Project Board during Sprint 2*
+![Sprint 2 Task Board]
+
+Week 2 (Sprint Planning Day)
+https://img.sanishtech.com/u/cf560712fa2d0c7b32500150ac190992.png
+
+Week 2 (Mid-Sprint)
+https://img.sanishtech.com/u/a23fc2fe516904a75cadf296e6ca08c4.png
+
+Week 2 (Sprint End)
+https://img.sanishtech.com/u/1aef4c7dab712bcce29b03496006681c.png
+
