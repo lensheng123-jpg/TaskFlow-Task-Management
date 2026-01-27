@@ -32,7 +32,7 @@ Our development followed Scrum methodology with 2 sprints:
 
 ### GitHub Collaboration Evidence
 - **Commit History**: ![Commit Graph] 
-- **Pull Requests**: ![PRs] https://img.sanishtech.com/u/2abbb0486d8c5d7b26b998eb0df72aaf.png https://img.sanishtech.com/u/efc74fddd8f75b46d1b0058dfa5bd63d.png
+- **Pull Requests**: ![PRs] https://img.sanishtech.com/u/2abbb0486d8c5d7b26b998eb0df72aaf.png https://img.sanishtech.com/u/0e4c5eaed7e8026dc6021036a2a4d860.png
 - **Project Board**: ![Project Board] https://img.sanishtech.com/u/96b8401488b322651e24c431a0a277af.png
 
 - ![Sprint 1 Task Board] Week 1 (Sprint Planning Day) https://img.sanishtech.com/u/c66fab254eeb747e4039e21a150f7f5c.png Week 1 (Mid-Sprint) https://img.sanishtech.com/u/eaadbcaf31bd580213b8720228ffb098.png Week 1 (Sprint End) https://img.sanishtech.com/u/354f96544c5ca3cb215667fffb95f7c4.png
