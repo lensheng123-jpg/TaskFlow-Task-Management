@@ -25,6 +25,6 @@ Week 1 (5 days)
 - ✓ Tested on at least 2 browsers
 
 ## Task Board Screenshot
-![Sprint 1 Task Board]https://img.sanishtech.com/u/1443b8430bf749271e31b81b0a331780.png
+![Sprint 1 Task Board] https://img.sanishtech.com/u/c66fab254eeb747e4039e21a150f7f5c.png
 
 *Note: Replace with actual screenshot of your GitHub Project Board during Sprint 1*
