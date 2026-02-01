@@ -33,5 +33,5 @@ Week 1 (Mid-Sprint)
 [https://img.sanishtech.com/u/eaadbcaf31bd580213b8720228ffb098.png](https://img.sanishtech.com/u/6f2fb9f12cc71e28ebdf19782ea0fc67.png)
 
 Week 1 (Sprint End)
-(https://img.sanishtech.com/u/354f96544c5ca3cb215667fffb95f7c4.png)
+https://img.sanishtech.com/u/9ed631a2e5ba52b5cb7e206d1e5154c8.png
 
