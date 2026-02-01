@@ -30,8 +30,8 @@ Week 1 (Sprint Planning Day)
 https://img.sanishtech.com/u/c66fab254eeb747e4039e21a150f7f5c.png
 
 Week 1 (Mid-Sprint)
-https://img.sanishtech.com/u/eaadbcaf31bd580213b8720228ffb098.png
+[https://img.sanishtech.com/u/eaadbcaf31bd580213b8720228ffb098.png](https://img.sanishtech.com/u/6f2fb9f12cc71e28ebdf19782ea0fc67.png)
 
 Week 1 (Sprint End)
-https://img.sanishtech.com/u/354f96544c5ca3cb215667fffb95f7c4.png
+(https://img.sanishtech.com/u/354f96544c5ca3cb215667fffb95f7c4.png)
 
