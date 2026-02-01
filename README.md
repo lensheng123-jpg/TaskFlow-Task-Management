@@ -35,10 +35,23 @@ Our development followed Scrum methodology with 2 sprints:
 - **Pull Requests**: ![PRs] https://img.sanishtech.com/u/2abbb0486d8c5d7b26b998eb0df72aaf.png https://img.sanishtech.com/u/0918722a7c3a0b4ddc40f1186b93fd2f.png
 - **Project Board**: ![Project Board] https://img.sanishtech.com/u/9b9640f07c8f8f5f7c5e771aacc00b96.png
 
--![Sprint 1 Task Board]Week 1 (Sprint Planning Day) https://img.sanishtech.com/u/c66fab254eeb747e4039e21a150f7f5c.png Week 1 (Mid-Sprint) https://img.sanishtech.com/u/eaadbcaf31bd580213b8720228ffb098.png Week 1 (Sprint End) https://img.sanishtech.com/u/9ed631a2e5ba52b5cb7e206d1e5154c8.png
+-![Sprint 1 Task Board]
+
+Week 1 (Sprint Planning Day) https://img.sanishtech.com/u/c66fab254eeb747e4039e21a150f7f5c.png 
+
+Week 1 (Mid-Sprint) https://img.sanishtech.com/u/eaadbcaf31bd580213b8720228ffb098.png 
+
+Week 1 (Sprint End) https://img.sanishtech.com/u/9ed631a2e5ba52b5cb7e206d1e5154c8.png
+
+
 - ![Sprint 2 Task Board]
+  
 Week 2 (Sprint Planning Day) https://img.sanishtech.com/u/6a7f98dba35015cec89ad6f671ae5461.png
+
+
 Week 2 (Mid-Sprint) https://img.sanishtech.com/u/7ba3b74830ccd36aa833b96592a4f467.png
+
+
 Week 2 (Sprint End) https://img.sanishtech.com/u/350dd766a0a6728af5bc1b28ad1a6bc0.png
 
 ## ⚙️ Technologies Used
