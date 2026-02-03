@@ -53,6 +53,8 @@ Week 2 (Mid-Sprint) https://img.sanishtech.com/u/7ba3b74830ccd36aa833b96592a4f46
 
 
 Week 2 (Sprint End) https://img.sanishtech.com/u/350dd766a0a6728af5bc1b28ad1a6bc0.png
+## Testing
+Complete testing done by team member (Na Kuan Li)
 
 ## ⚙️ Technologies Used
 - HTML5, CSS3, JavaScript (ES6+)
