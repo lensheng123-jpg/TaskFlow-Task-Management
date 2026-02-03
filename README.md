@@ -70,6 +70,3 @@ Week 2 (Sprint End) https://img.sanishtech.com/u/350dd766a0a6728af5bc1b28ad1a6bc
 1. Clone the repository:
    ```bash
    git clone https://github.com/[username]/TaskFlow-Task-Management.git
-
-
-
